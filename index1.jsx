@@ -3,3 +3,4 @@ function myButton(){
     <button>Click Me</button>
     )
 }
+export default myButton
