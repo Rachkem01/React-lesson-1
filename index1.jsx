@@ -1,6 +1,6 @@
-function myButton(){
+function Button(){
   return(
     <button>Click Me</button>
     )
 }
-export default myButton
+export default Button
